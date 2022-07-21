@@ -1,0 +1,27 @@
+These are the libraries needs to install to run this project.
+
+
+click==7.1.2
+Flask==1.1.2
+Flask-Cors==3.0.8
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+joblib==0.15.1
+MarkupSafe==1.1.1
+numpy==1.18.5
+pandas==1.0.4
+pickle-mixin==1.0.2
+python-dateutil==2.8.1
+pytz==2020.1
+scikit-learn==0.22.2
+scipy==1.4.1
+six==1.15.0
+sklearn==0.0
+threadpoolctl==2.1.0
+Werkzeug==1.0.1
+
+2.This project is done in flask python framework
+3.To run this project run the commant "python application.py runserver"
+4.Open the browser and run the address "http://127.0.0.1:5000/"
+5.UI interface appears, put values and get the result according to that.
